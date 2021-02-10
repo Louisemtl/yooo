@@ -1,7 +1,7 @@
 ---
 title: Je suis fraîche
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: img/139306795_227511795507816_32688293425879782_n.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
